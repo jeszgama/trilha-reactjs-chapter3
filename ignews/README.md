@@ -5,3 +5,11 @@
 - Framework para o React.js
 
 - Utiliza o SSR que é um processo em que o servidor converte as páginas da web em um formato visualizável antes de enviá-las ao navegador
+
+### Instalando:
+
+- `yarn create next-app ignews`
+
+### Executando:
+
+- `yarn dev`
