@@ -10,6 +10,8 @@
 
 - `yarn create next-app ignews`
 
+- `yarn add typescript @types/react @types/node -D`
+
 ### Executando:
 
 - `yarn dev`
