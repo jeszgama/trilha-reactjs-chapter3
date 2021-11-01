@@ -12,6 +12,8 @@
 
 - `yarn add typescript @types/react @types/node -D`
 
+- `yarn add react-icons`
+
 ### Executando:
 
 - `yarn dev`
