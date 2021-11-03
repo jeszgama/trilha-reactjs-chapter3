@@ -33,3 +33,19 @@
 ### pasta services > arquivo stripe.ts
 
 - defini a conexão com a API do stripe
+
+# SSG (Static Site Generation)
+
+### Cria um HTML estático para facilitar o carregamento da página
+
+- SSR > dinâmico
+
+- SSG > estático
+
+### Três formas de colocar informações em um site:
+
+- Client-side
+
+- Server-Side
+
+- Static Site Generation
