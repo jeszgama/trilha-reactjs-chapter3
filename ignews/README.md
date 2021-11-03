@@ -1,19 +1,35 @@
-# trilha-reactjs-chapter3-fundamentos_do_next.js
+# Executar aplicação:
 
-## Next.js
+`yarn dev`
 
-- Framework para o React.js
+# Next.js
 
-- Utiliza o SSR que é um processo em que o servidor converte as páginas da web em um formato visualizável antes de enviá-las ao navegador
+### Framework para o React.js
+
+- Utiliza o SSR( Server Side Rendering ) que é um processo em que o servidor converte as páginas da web em um formato visualizável antes de enviá-las ao navegador
 
 ### Instalando:
 
-- `yarn create next-app ignews`
+`yarn create next-app ignews`
 
-- `yarn add typescript @types/react @types/node -D`
+`yarn add typescript @types/react @types/node -D`
 
-- `yarn add react-icons`
+`yarn add react-icons`
 
-### Executando:
+# Stripe
 
-- `yarn dev`
+### API de pagamentos
+
+### Deve ser feitos no pages
+
+### .env.local
+
+- é um servidor local
+
+- colocar a chave privada do stripe
+
+`yarn add stripe`
+
+### pasta services > arquivo stripe.ts
+
+- defini a conexão com a API do stripe
