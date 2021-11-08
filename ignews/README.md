@@ -63,3 +63,11 @@
 ### File System Route
 
 ### Executadas pelo método serveless
+
+# Autenticação
+
+### JWT (Storage)
+
+### Next Auth (Social)
+
+### Cognito, Aut0
