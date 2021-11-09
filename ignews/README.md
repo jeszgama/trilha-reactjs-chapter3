@@ -64,6 +64,8 @@
 
 ### Executadas pelo método serveless
 
+<br>
+
 # Autenticação
 
 ### JWT (Storage)
@@ -71,3 +73,13 @@
 ### Next Auth (Social)
 
 ### Cognito, Aut0
+
+<br>
+
+# Parametrização
+
+- servem para armazanar conteúdos através do id, em um blog por exemplo posso atribuir um id para cada matéria e postar a que desejar
+
+- parâmetros devem ter []
+
+- ... significa que ele é mutável
