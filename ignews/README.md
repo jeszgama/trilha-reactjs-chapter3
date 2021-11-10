@@ -83,3 +83,9 @@
 - parâmetros devem ter []
 
 - ... significa que ele é mutável
+
+`yarn add next-auth`
+
+`yarn add @types/next-auth -D`
+
+- pages/api/auth
