@@ -2,6 +2,8 @@
 
 `yarn dev`
 
+<br>
+
 # Next.js
 
 ### Framework para o React.js
@@ -15,6 +17,8 @@
 `yarn add typescript @types/react @types/node -D`
 
 `yarn add react-icons`
+
+<br>
 
 # Stripe
 
@@ -34,6 +38,8 @@
 
 - defini a conexão com a API do stripe
 
+<br>
+
 # SSG (Static Site Generation)
 
 ### Cria um HTML estático para facilitar o carregamento da página
@@ -49,3 +55,37 @@
 - Server-Side
 
 - Static Site Generation
+
+<br>
+
+# API routes
+
+### File System Route
+
+### Executadas pelo método serveless
+
+<br>
+
+# Autenticação
+
+### JWT (Storage)
+
+### Next Auth (Social)
+
+### Cognito, Aut0
+
+<br>
+
+# Parametrização
+
+- servem para armazanar conteúdos através do id, em um blog por exemplo posso atribuir um id para cada matéria e postar a que desejar
+
+- parâmetros devem ter []
+
+- ... significa que ele é mutável
+
+`yarn add next-auth`
+
+`yarn add @types/next-auth -D`
+
+- pages/api/auth
