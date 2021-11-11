@@ -93,3 +93,5 @@
 # FaunaDB
 
 - API de banco de dados 
+
+`yarn add faunadb`
