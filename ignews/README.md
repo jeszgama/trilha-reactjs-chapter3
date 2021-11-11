@@ -89,3 +89,7 @@
 `yarn add @types/next-auth -D`
 
 - pages/api/auth
+
+# FaunaDB
+
+- API de banco de dados 
